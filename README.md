@@ -9,4 +9,11 @@ After getting this project by Masai in Unit 3 construct week. We all went throug
 # Tech Stacks Used:
 We used Html5, CSS3, JavaScript, Bootstrap, SlickSlider and Git-Hub for building this Project. We also used tools like Github for hosting our project, Slack & Zoom as means of a communication channel.
 
-* ![Screenshot_23](https://user-images.githubusercontent.com/91020498/165447490-9303e5f5-4087-476e-9d55-ff9d9fab6a9f.png)
+# Some Snaps from our Website
+![Screenshot (186)](https://user-images.githubusercontent.com/81103012/166097990-8bab665a-bf30-407b-91ed-91e37958f59b.png)
+![Screenshot (187)](https://user-images.githubusercontent.com/81103012/166097994-35aa7f93-8b9d-4206-a85b-77b6cf281d5b.png)
+![Screenshot (188)](https://user-images.githubusercontent.com/81103012/166097996-72b0f8d8-37a0-413d-8b5c-faf8f70aa013.png)
+![Screenshot (189)](https://user-images.githubusercontent.com/81103012/166097998-784185fd-e4e9-4f12-b8b7-9f887a08f179.png)
+![Screenshot (190)](https://user-images.githubusercontent.com/81103012/166097999-2d962be4-4da7-44da-95c5-534c973b68f6.png)
+![Screenshot (191)](https://user-images.githubusercontent.com/81103012/166098000-8e08192b-5bb1-44ad-a728-e4bf3c683099.png)
+![Screenshot (192)](https://user-images.githubusercontent.com/81103012/166098005-0ff01ce9-42f5-476d-bf9b-1908cb664a44.png)
