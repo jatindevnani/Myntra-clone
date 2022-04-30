@@ -8,3 +8,5 @@ After getting this project by Masai in Unit 3 construct week. We all went throug
 
 # Tech Stacks Used:
 We used Html5, CSS3, JavaScript, Bootstrap, SlickSlider and Git-Hub for building this Project. We also used tools like Github for hosting our project, Slack & Zoom as means of a communication channel.
+
+* ![Screenshot_23](https://user-images.githubusercontent.com/91020498/165447490-9303e5f5-4087-476e-9d55-ff9d9fab6a9f.png)
